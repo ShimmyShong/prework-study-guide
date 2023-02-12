@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-Provide instructions and examples for use.
+To use this Study Guide, you can review notes in each section. For suggestions on what to study first, open the Chrome DevTools by pressing Control+Shift+I. A console panel should open in the browser. There you will see a list of topics we learned from Prework along with a suggestion on which topic to study first.
 
 ## Credits
 
